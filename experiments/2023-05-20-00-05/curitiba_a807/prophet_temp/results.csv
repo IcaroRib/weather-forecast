@@ -1,0 +1,2 @@
+,attribute,rmse,mape,r2,seasonality_mode,growth,alpha,yearly_seasonality
+Prophet,temp,2.0613859159775303,0.08521686640960646,0.0,additive,linear,0.005,True

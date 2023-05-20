@@ -1,0 +1,2 @@
+,attribute,steps,rmse,mape,r2,order
+ARIMA,prep_tot,1,8.690290538455706,25.341638506027625,0.0,"(1, 1, 2)"

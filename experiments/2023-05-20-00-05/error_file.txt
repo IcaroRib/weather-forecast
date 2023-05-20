@@ -1,0 +1,2 @@
+curitiba_a807;1;prep_tot;exp_smoothing_forecast
+manaus_a101;1;prep_tot;exp_smoothing_forecast

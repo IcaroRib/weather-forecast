@@ -1,0 +1,2 @@
+,attribute,rmse,mape,r2,seasonal,smoothing_level,smoothing_seasonal
+Exponential Smoothing,temp,2.316493500855511,0.060456854727927604,0.0,add,0.4,0.8
