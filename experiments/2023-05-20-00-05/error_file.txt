@@ -1,2 +1,4 @@
 curitiba_a807;1;prep_tot;exp_smoothing_forecast
 manaus_a101;1;prep_tot;exp_smoothing_forecast
+teresina_a312;1;prep_tot;exp_smoothing_forecast
+rio_janeiro_a652;1;prep_tot;exp_smoothing_forecast

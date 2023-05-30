@@ -1,0 +1,2 @@
+,attribute,steps,rmse,mape,r2,order
+ARIMA,min_temp,1,0.927658749511921,0.07626824662207467,0.0,"(0, 0, 1)"
