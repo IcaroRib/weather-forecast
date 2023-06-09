@@ -16,8 +16,9 @@ if __name__ == '__main__':
     warnings.filterwarnings("ignore", category=ValueWarning)
     attrs = ['temp', 'prep_tot', 'max_temp', 'min_temp']
     #attrs = ['temp']
-    cities = ['curitiba_a807', 'manaus_a101', 'teresina_a312', 'rio_janeiro_a652']
+    #cities = ['curitiba_a807', 'manaus_a101', 'teresina_a312', 'rio_janeiro_a652']
     #steps = [1, 2, 5, 10, 20, 30]
+    cities = ['brasilia_a001']
     steps = [1]
     time = datetime.now().strftime('%Y-%m-%d-%H-%M')
 
